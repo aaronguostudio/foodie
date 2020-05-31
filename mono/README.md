@@ -8,3 +8,5 @@
 - zero down time
 - decrease data dependencies
 - partition
+
+starts from: https://class.imooc.com/lesson/1222#mid=28460
