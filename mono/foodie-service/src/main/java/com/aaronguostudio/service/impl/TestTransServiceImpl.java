@@ -1,6 +1,5 @@
 package com.aaronguostudio.service.impl;
 
-import com.aaronguostudio.service.StuService;
 import com.aaronguostudio.service.TestTransService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -28,6 +27,6 @@ public class TestTransServiceImpl implements TestTransService {
     public void testPropagationTrans() {
         stuService.saveParent();
         stuService.saveChildren();
-        int a = 1 / 0;
+//        int a = 1 / 0;
     }
 }
