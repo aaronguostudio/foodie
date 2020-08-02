@@ -2,6 +2,8 @@
 
 ## Database
 
+## Architecture
+
 ### Performance keys
 
 - no primary key
