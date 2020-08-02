@@ -72,4 +72,6 @@ public class StuServiceImpl implements StuService {
         stu.setAge(16);
         stuMapper.insert(stu);
     }
+
+
 }
